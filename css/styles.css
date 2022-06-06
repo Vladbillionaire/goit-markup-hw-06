@@ -876,8 +876,7 @@ textarea {
 
     color: var(--icon-color);
 
-    transition: color var(--transition-duration) var(--transition-timing-function),
-    background-color var(--transition-duration) var(--transition-timing-function);
+    transition: color var(--transition-duration) var(--transition-timing-function);
 }
 
 .clients-link:focus,
